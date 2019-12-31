@@ -68,7 +68,7 @@ nav .nav-grid a::after {
 
 nav .nav-grid a:hover::after {
   width: 100%;
-  transition: width 250ms cubic-bezier(1, 0.2, 0.65, 0.89) ;
+  transition: width 50ms cubic-bezier(1, 0.2, 0.65, 0.89) ;
 }
 
 .nav-grid .active {
