@@ -231,6 +231,9 @@ section {
   section h2 {
     text-align: center;
   }
+  .nav-grid {
+    margin-left: 50px;
+  }
 }
 
 /* == ModalOverlay == */
