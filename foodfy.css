@@ -81,6 +81,12 @@ nav .nav-grid a:hover::after {
   margin-left: 100px;
 }
 
+@media (max-width: 650px) {
+  .nav-grid {
+    margin-left: 50px;
+  }
+}
+
 /* = FOOTER = */
 footer {
   padding: 32px;
@@ -230,9 +236,6 @@ section {
   }
   section h2 {
     text-align: center;
-  }
-  .nav-grid {
-    margin-left: 50px;
   }
 }
 
